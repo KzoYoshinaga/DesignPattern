@@ -1,4 +1,4 @@
-package Sstrategy.main;
+package strategy.main;
 
 /**
  * 次の手を決める戦略の抽象メソッドをまとめたインターフェイス

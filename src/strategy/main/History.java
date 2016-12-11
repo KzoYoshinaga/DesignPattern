@@ -1,4 +1,4 @@
-package Sstrategy.main;
+package strategy.main;
 
 import java.util.Arrays;
 import java.util.HashMap;

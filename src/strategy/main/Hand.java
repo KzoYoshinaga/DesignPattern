@@ -1,4 +1,4 @@
-package Sstrategy.main;
+package strategy.main;
 
 /**
  * 拡張 -> neme, List<Same>, List<Stronger>, List<Weaker> 状態増えた場合

@@ -1,0 +1,3 @@
+kzo_yoshinaga=kzo_yoshinaga
+pass=lkamsfiiadf
+comment=I was born

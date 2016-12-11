@@ -1,4 +1,4 @@
-package Sstrategy.main;
+package strategy.main;
 
 public class WinningStrategy implements Strategy {
 
